@@ -1,4 +1,4 @@
-import BorderWord from "../BorderWord";
+import BorderWord from "./BorderWord";
 
 function Hello({to, color, size, element}) {
 
